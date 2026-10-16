@@ -1,0 +1,7 @@
+- [Ask only blocking questions](feedback_ask_only_blocking_questions.md) — recommendation + cheap to undo = decide and record
+- [Full context at checkpoints](feedback_full_context_at_checkpoints.md) — full agent reports in blueprints/, not a digest
+- [Do not wait on slow agents](feedback_no_waiting_on_slow_agents.md) — one report covers the question = move on; narrow question + ready facts
+- [The model does not do arithmetic](feedback_llm_no_arithmetic.md) — code computes, the model quotes; no computation = no number
+- [Look at the page after a content change](feedback_look_at_page_after_content_change.md) — frames at four windows; the UI check misses overlaps
+- [Headless Chrome orphans](feedback_orphan_processes_headless_chrome.md) — cleanup on exit, killpg, port 0, no `| head`
+- [LLM in demos via claude -p on the subscription](feedback_llm_via_claude_p_subscription.md) — no API keys; one runner module
